@@ -1,4 +1,4 @@
-package wordspin;
+package exercises.wordspin;
 
 import java.util.Arrays;
 import java.util.List;

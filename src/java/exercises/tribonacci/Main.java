@@ -1,4 +1,4 @@
-package tribonacci;
+package exercises.tribonacci;
 
 import java.util.Arrays;
 

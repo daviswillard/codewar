@@ -1,4 +1,4 @@
-package commonchar;
+package exercises.commonchar;
 
 import java.util.*;
 

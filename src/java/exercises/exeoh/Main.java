@@ -1,4 +1,4 @@
-package exeoh;
+package exercises.exeoh;
 
 public class Main {
 	public static void main(String[] args) {

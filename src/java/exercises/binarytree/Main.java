@@ -1,4 +1,4 @@
-package invert.binarytree;
+package exercises.binarytree;
 
 
 class TreeNode {

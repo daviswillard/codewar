@@ -1,4 +1,4 @@
-package squaredigit;
+package exercises.squaredigit;
 
 import java.util.stream.Collectors;
 

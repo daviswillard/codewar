@@ -1,4 +1,4 @@
-package valid.palindrome;
+package exercises.palindrome;
 
 public class Main {
 

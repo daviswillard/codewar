@@ -1,4 +1,4 @@
-package arraysdiff;
+package exercises.arrays.diff;
 
 import java.util.Arrays;
 
